@@ -1,0 +1,60 @@
+body{
+    background-color:#161616;
+}
+
+.body{
+    width: 80%;
+    height: 50;
+    margin: auto;   
+}
+
+.header ul{
+    list-style: none;
+    padding-top: 13px;
+    word-spacing: 10px;
+}
+
+.header li{
+    display: inline;
+}
+
+.header{
+    width: 80%;
+    height: 100px;
+    margin: auto;
+    background-color: pink;
+}
+
+.line{
+    width: 80%;
+    height: 5;
+    margin: auto;
+    margin-top: 100;
+    background-color: #1e1e1e;
+}
+
+.linered{
+    width: 70%;
+    height: 5;
+    background-color: red;
+}
+
+/*
+.lineyellow{
+    width: 40%;
+    height: 2;
+    background-color: ;
+    position: absolute;
+    right: 0;
+}
+*/
+
+#one{
+    background-color: pink;
+}
+
+
+#logo{
+    float: left;
+    padding-right: 20px;
+}

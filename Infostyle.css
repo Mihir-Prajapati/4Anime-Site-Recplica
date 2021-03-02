@@ -1,0 +1,75 @@
+.mainbox{
+    margin-top: 80;
+    margin-left: 25;
+    font: normal normal 400 normal 12.4px / 20px Roboto, "Segoe UI", Arial, sans-serif;
+}
+
+.infoimage{
+    width: 265px;
+    height: 90%;
+    float: left;
+    margin-right: 30;
+}
+
+.small{
+    color: #575c58;
+    font-size: small;
+}
+
+.big{
+    font-size: medium;
+}
+
+.sapcedown{
+    margin-bottom: 20;
+}
+
+.description  a{
+    color: rgba(255, 255, 255, 0.685);
+}
+
+.description  a:hover{
+    color: white;
+}
+
+.description{
+    padding: 10;    
+}
+
+.description li{
+    display: inline;
+    padding-right: 20;
+}
+
+.episo{
+    width: 93%;
+    margin-top: 20;
+    letter-spacing: 0.5;
+}
+
+.epno input[type="button"]{
+    background-color: #221f1f;
+    border: none;
+    color: grey;
+    padding: 7 13;
+    margin-bottom: 10;
+    margin-right: 5;    
+}
+
+.epno input[type="button"]:hover{
+    background-color: #3f3939;
+    color: white;    
+}
+
+
+#od{
+    width: 16%;
+    height: 5%;
+    margin: 0% 50%;
+    background-color: #161616;
+    font-size: smaller;
+    color: white;
+    opacity: 0.8;
+    text-transform: uppercase;
+    border: 2px solid #353131;   
+}
