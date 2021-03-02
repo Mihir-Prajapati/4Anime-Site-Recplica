@@ -3,4 +3,4 @@ Create a replica of an Anime website named 4Anime. I just tried to create as muc
 
 ### Images of Project
 
-![GitHub Logo](4Anime.png)
+![GitHub Logo](Output Images/HomePage.png)
